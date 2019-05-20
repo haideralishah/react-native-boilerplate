@@ -1,0 +1,3 @@
+rootProject.name = 'policeNoteWithInit'
+
+include ':app'
